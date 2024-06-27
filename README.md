@@ -1,6 +1,8 @@
 # SJ-Trainer
 
-The Offical Github Repo Of SJ Trainer
+<center>
+<h2>The Offical Github Repo Of SJ Trainer</h2>
+</center>
 
 <center>
 <div style="display: flex;">
