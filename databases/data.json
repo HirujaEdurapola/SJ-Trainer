@@ -1,0 +1,18 @@
+{
+    "games": [
+        {
+            "position": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R",
+            "best-move": "Bb5",
+            "second-best": "Bc4",
+            "third-best": "Nc3",
+            "status": "White to Move"
+        },
+        {
+            "position": "rnb2rk1/pp3ppp/8/3pN3/8/4B3/PPP2PPP/3R1RK1",
+            "best-move": "Be6",
+            "second-best": "Bd8",
+            "third-best": "Nc6",
+            "status": "Black to Move"
+        }
+    ]
+}
