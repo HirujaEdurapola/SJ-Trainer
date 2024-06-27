@@ -5,7 +5,7 @@
 </center>
 
 <center>
-<div style="display: flex;">
+<div style="display: flex; justify-content: center; align-items: center;">
 <img src="./res/img/SJ-Trainer-Logo.svg" style="margin-right: 5vh;">
 <img src="./res/img/Hiruja-Studios-Logo-Light.svg">
 </div>
