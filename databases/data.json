@@ -13,6 +13,13 @@
             "second-best": "Bd8",
             "third-best": "Nc6",
             "status": "Black to Move"
+        },
+        {
+            "position": "6k1/p5p1/7p/8/7K/2PPB3/P5r1/4r3",
+            "best-move": "Kh3",
+            "second-best": "Bg1",
+            "third-best": "Bf4",
+            "status": "White to Move"
         }
     ]
 }
