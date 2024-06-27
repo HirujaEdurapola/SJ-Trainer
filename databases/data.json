@@ -5,21 +5,21 @@
             "best-move": "Bb5",
             "second-best": "Bc4",
             "third-best": "Nc3",
-            "status": "White to Move"
+            "status": "White"
         },
         {
             "position": "rnb2rk1/pp3ppp/8/3pN3/8/4B3/PPP2PPP/3R1RK1",
             "best-move": "Be6",
             "second-best": "Bd8",
             "third-best": "Nc6",
-            "status": "Black to Move"
+            "status": "Black"
         },
         {
             "position": "6k1/p5p1/7p/8/7K/2PPB3/P5r1/4r3",
             "best-move": "Kh3",
             "second-best": "Bg1",
             "third-best": "Bf4",
-            "status": "White to Move"
+            "status": "White"
         }
     ]
 }
