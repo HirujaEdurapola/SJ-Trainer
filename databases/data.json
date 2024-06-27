@@ -20,6 +20,20 @@
             "second-best": "Bg1",
             "third-best": "Bf4",
             "status": "White"
+        },
+        {
+            "position": "r1qr3k/1pp2pbn/2n1b1p1/2PNp1Pp/p3P3/P3BN1P/1PQ2P2/1K1R1B1R",
+            "best-move": "Ra5",
+            "second-best": "Nf8",
+            "third-best": "Qb8",
+            "status": "Black"
+        },
+        {
+            "position": "2r2bk1/2Bn1p2/6pp/1b1Pp3/1p6/1P2NN1P/1P3PP1/2R3K1 ",
+            "best-move": "Bd6",
+            "second-best": "Nb8",
+            "third-best": "h5",
+            "status": "Black"
         }
     ]
 }
