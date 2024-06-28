@@ -29,17 +29,6 @@
 <meta property="twitter:description" content="A 100% Free Online Web-Based Chess Trainer" />
 <meta property="twitter:image" content="./res/img/preview.png" />
 
-<script>
-  function isMobile() {
-      const userAgent = navigator.userAgent || navigator.vendor || window.opera;
-      return /android|iPhone|iPad|iPod|mobile|tablet/i.test(userAgent);
-  }
-
-  if (isMobile()) {
-      window.location.href = 'mobile.html';
-  }
-</script>
-
 </head>
 <body>
   <div id="app"></div>
@@ -65,7 +54,6 @@
       <summary id="error-message"></summary>
       <p id="error-stack"></p>
     </details>
-    <h1>We Do Not Support Mobile Devices</h1>
   </div>
 
   <script src="./res/js/script.js"></script>
