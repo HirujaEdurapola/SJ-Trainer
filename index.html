@@ -29,7 +29,16 @@
 <meta property="twitter:description" content="A 100% Free Online Web-Based Chess Trainer" />
 <meta property="twitter:image" content="./res/img/preview.png" />
 
-<script src="./res/js/hiruja.js"></script>
+<script>
+  function isMobile() {
+      const userAgent = navigator.userAgent || navigator.vendor || window.opera;
+      return /android|iPhone|iPad|iPod|mobile|tablet/i.test(userAgent);
+  }
+
+  if (isMobile()) {
+      window.location.href = 'mobile.html';
+  }
+</script>
 
 </head>
 <body>
