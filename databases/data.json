@@ -1,39 +1,44 @@
 {
     "games": [
         {
-            "position": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R",
+            "position": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 0 1",
             "best-move": "Bb5",
             "second-best": "Bc4",
             "third-best": "Nc3",
-            "status": "White"
+            "status": "White",
+            "id": "01"
         },
         {
-            "position": "rnb2rk1/pp3ppp/8/3pN3/8/4B3/PPP2PPP/3R1RK1",
+            "position": "rnb2rk1/pp3ppp/8/3pN3/8/4B3/PPP2PPP/3R1RK1 b KQkq - 0 1",
             "best-move": "Be6",
             "second-best": "Bd8",
             "third-best": "Nc6",
-            "status": "Black"
+            "status": "Black",
+            "id": "02"
         },
         {
-            "position": "6k1/p5p1/7p/8/7K/2PPB3/P5r1/4r3",
+            "position": "6k1/p5p1/7p/8/7K/2PPB3/P5r1/4r3 w - - 0 1",
             "best-move": "Kh3",
             "second-best": "Bg1",
             "third-best": "Bf4",
-            "status": "White"
+            "status": "White",
+            "id": "03"
         },
         {
-            "position": "r1qr3k/1pp2pbn/2n1b1p1/2PNp1Pp/p3P3/P3BN1P/1PQ2P2/1K1R1B1R",
+            "position": "r1qr3k/1pp2pbn/2n1b1p1/2PNp1Pp/p3P3/P3BN1P/1PQ2P2/1K1R1B1R b KQkq - 0 1",
             "best-move": "Ra5",
             "second-best": "Nf8",
             "third-best": "Qb8",
-            "status": "Black"
+            "status": "Black",
+            "id": "04"
         },
         {
-            "position": "2r2bk1/2Bn1p2/6pp/1b1Pp3/1p6/1P2NN1P/1P3PP1/2R3K1 ",
+            "position": "2r2bk1/2Bn1p2/6pp/1b1Pp3/1p6/1P2NN1P/1P3PP1/2R3K1 b KQkq - 0 1",
             "best-move": "Bd6",
             "second-best": "Nb8",
             "third-best": "h5",
-            "status": "Black"
+            "status": "Black",
+            "id": "05"
         }
     ]
 }
